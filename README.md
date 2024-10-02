@@ -15,6 +15,6 @@ To use this Chrome extension on your PC:
 1️⃣ Clone this file.
 2️⃣ Open Chrome.
 3️⃣ Click on the three dots at the top-right corner of Chrome and go to Extensions > Manage Extensions.
-4️⃣ Turn on Developer Mode and add the manifest.json file.
+4️⃣ Turn on Developer Mode and select LOAD UNPACKED , add the manifest.json file.
 
-Try making separate folders for icons and js file and store the icons and js files respectively in these folders.
+
