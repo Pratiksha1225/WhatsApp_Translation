@@ -16,3 +16,4 @@ To use this Chrome extension on your PC:
 2️⃣ Open Chrome.
 3️⃣ Click on the three dots at the top-right corner of Chrome and go to Extensions > Manage Extensions.
 4️⃣ Turn on Developer Mode and add the manifest.json file.
+
